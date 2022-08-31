@@ -1,2 +1,7 @@
-# ejercicio_github_para_programadores
-es una prueba de repositorio
+> # Github Para Programadores
+
+> ## Es una prueba de repositorio de GitHub
+
+> [My LinkedIn](https://www.linkedin.com/in/pablo-andres-teneche-lopez-4a41aa249)
+
+
